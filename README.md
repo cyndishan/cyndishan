@@ -43,7 +43,7 @@ Below are a few selected projects that demonstrate my capabilities as a data ana
 
 - ✅ Highly reliable and well-organized
 - 🤝 Strong team collaboration skills with a focus on transparency and accountability
-- 😊 Known for a positive and energy that enhances workplace culture
+- 😊 Known for bringing enthusiasm, a cheerful attitude, and a smile to every team interaction, helping to uplift and motivate those around me
 - 🧠 Continuously seeking to improve and upskill in new tools, techniques, and frameworks
 
 ---
