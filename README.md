@@ -9,24 +9,26 @@
 
 ## Technical Skills
 
-- **Python**  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) **Python**  
   Used for data cleaning, statistical analysis, and visualization with libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
 
-- **SQL (MSSQL, MySQL)**  
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square) **SQL (PostgreSQL, MySQL)**  
   Proficient in writing queries to extract, filter, join, and summarize data from relational databases for business insights.
 
-- **Microsoft Excel**  
+- ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square) **Microsoft Excel**  
   Strong command of advanced Excel features, including PivotTables, VLOOKUP, Power Query, and dynamic dashboards for reporting and analysis.
 
-- **Power BI**  
+- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat-square) **Power BI**  
   Skilled in creating interactive dashboards and visualizations to communicate data trends and performance metrics to stakeholders.
 
-- **Git & GitHub**  
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square) **Jupyter Notebooks**  
+  Used as an environment to document and present data workflows, combining code, visualizations, and narrative text for effective communication.
+
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) **Git & GitHub**  
   Experienced in version control and collaborative workflows using Git and GitHub for managing and sharing data projects.
 
-- **Visual Studio Code**  
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) **Visual Studio Code**  
   Primary code editor used for Python development and Git integration.
-
 ---
 
 ## Projects
