@@ -1,4 +1,5 @@
-![Gray White Minimalist Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/2b61be3e-c1dd-42c6-af3e-4d2f7a66ccad)
+![github-header-image](https://github.com/user-attachments/assets/1ce854c2-62cd-4e56-bfb7-4b0a26eceeca)
+
 
 
 # Welcome to My GitHub Profile 📊
