@@ -35,7 +35,9 @@
 ## Projects
 
 Below are a few selected projects that demonstrate my capabilities as a data analyst:
-
+### 📊 Sales Data Analysis
+- **Description:** Analyzed retails sales data using EXCEL
+- **GitHub Repo:** [View Project](https://github.com/cyndishan/sales-analysis-project)
 
 
 ---
