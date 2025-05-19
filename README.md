@@ -34,7 +34,7 @@
 
 ## Projects
 
-Here is the link for the projects that demonstrate my capabilities as a data analyst: **Github Repo:** [View Project](https://github.com/cyndishan/project)
+Here is the link for the projects that demonstrate my capabilities as a data analyst: [Projects](https://github.com/cyndishan/projects)
 
 ---
 
