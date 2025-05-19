@@ -34,15 +34,7 @@
 
 ## Projects
 
-Below are a few selected projects that demonstrate my capabilities as a data analyst:
-### 📊 Store Comparison Analysis by Excel
-- **Description:** Analyzed comparison sales data of two stores A & B using EXCEL, PIVOT TABLES, PIVOT CHARTS, SUMIF, TEXT, etc.
-- **GitHub Repo:** [View Project](https://github.com/cyndishan/sales-analysis-project)
-
-### 📊 Sales Data Analysis by SQL and PowerBI
-- **Description:** Analyzed comparison sales data of three stores Baldwin Bikes, Rowlett Bikes and Santa Cruz Bikes using Relational Databases SQL: Subqueries, aggregation, calculation, etc. for querying and analysis
-- **Github Repo:** [View Project](https://github.com/cyndishan/sales-analysis-project-sql)
-
+Here is the link for the projects that demonstrate my capabilities as a data analyst: **Github Repo:** [View Project](https://github.com/cyndishan/project)
 
 ---
 
