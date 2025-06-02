@@ -52,7 +52,7 @@ Here is the link for the projects that demonstrate my capabilities as a data ana
 I am eager to contribute to a dynamic team and apply my analytical skills to solve complex business problems. Please feel free to connect with me:
 
 - 📧 Email: cyndi.shan0101@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/li-shan-80980a1b9/ 
+- 💼 LinkedIn: https://www.linkedin.com/in/cyndi-li-shan/ 
 
 ---
 
